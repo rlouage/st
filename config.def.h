@@ -10,7 +10,8 @@ static char *font = "Liberation Mono:pixelsize=15:antialias=true:autohint=true";
 static char *font2[] = {
 /*     "Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*     "Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
-	"Symbola:pixelsize=15:antialias=true:autohint=true"
+/*	"Joypixels:pixelsize=15:antialias=true:autohint=true", // for coloremojis */
+	"Symbola:pixelsize=15:antialias=true:autohint=true"    // in case coloremojis fail
 };
 
 static int borderpx = 2;
