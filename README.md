@@ -12,10 +12,9 @@ See [suckless.org](https://st.suckless.org "dwm.suckless.org") for the original 
 
 For displaying black and white emojis the ttf-symbola font is used. To install this font use yay:
 
-'''bash
+```bash
   yay ttf-symbola
-
-'''
+```
 
 ## Installation
 Clone this repository in whatever folder you want to keep the source code in, then go in the cloned directory and build the package:
