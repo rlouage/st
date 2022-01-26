@@ -17,7 +17,7 @@ For displaying black and white emojis the ttf-symbola font is used. To install t
 ```
 
 ## Installation
-Clone this repository in whatever folder you want to keep the source code in, then go in the cloned directory and build the package:
+Clone this repository in whatever folder you want, then go in the cloned directory and build the package:
 
 ```bash
   git clone https://www.github.com/rlouage/dwm
