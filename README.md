@@ -4,7 +4,6 @@ See [suckless.org](https://st.suckless.org "dwm.suckless.org") for the original 
 
 ## Patches
 - [scrollback](https://st.suckless.org/patches/scrollback/ "scrollback"): Scroll back through terminal output using the mouse scrolling wheel. (all 3 patches applied to use mouse)
-- [xresources](https://st.suckless.org/patches/xresources/ "xresources"): This patch adds the ability to configure st via Xresources. At startup, st will read and apply the resources named in the resources[] array in config.h.
 - [font2](https://st.suckless.org/patches/font2/ "font2"): This patch allows to add spare font besides default. Some glyphs can be not present in default font. For this glyphs st uses font-config and try to find them in font cache first. This patch append fonts defined in font2 variable to the beginning of font cache. So they will be used first for glyphs that absent in default font.
 
 
