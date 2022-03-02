@@ -9,10 +9,10 @@ See [suckless.org](https://st.suckless.org "dwm.suckless.org") for the original 
 
 ## Dependencies
 
-For displaying black and white emojis the ttf-symbola font is used. To install this font use yay:
+For displaying black and white emojis the awesome font is used. To install this font use pacman:
 
 ```bash
-  yay ttf-symbola
+    sudo pacman -Syu ttf-font-awesome
 ```
 
 ## Installation
